@@ -30,9 +30,13 @@ Last year I decided to rethink my career path and have started studying programm
 
 ## CAREER SUMMARY
 
+**Global Mobility**
+
+Sigma| _05.2023 till now_
+
 **Relocation Specialist**
 
-Luxoft| _09.2021 till now_
+Luxoft| _09.2021 till 05.2023_
 
 Legal Office Kancelaria Radców Prawnych Bartosz Krajewski S.K.A. | _04.2019 to 09.2021_
 
@@ -47,5 +51,5 @@ preparing and completing the documents.
 
 - English intermediate 
 - Polish intermediate 
-- Russian native
+- Russian advanced
 - Ukrainian native
